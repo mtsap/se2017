@@ -1,0 +1,78 @@
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>Ονομα Ερώτησης</text>
+        </name>
+        <questiontext format="html">
+            <text>
+                <![CDATA[<p>Κειμενο ερώτησης</p>]]>
+            </text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text></text>
+        </generalfeedback>
+        <defaultgrade>20.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answernumbering>none</answernumbering>
+        <correctfeedback format="html">
+            <text>
+                <![CDATA[<p>Η απαντησή σας είναι σωστή</p>]]>
+            </text>
+        </correctfeedback>
+        <partiallycorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Η απάντηση είναι μερικώς σωστή.</p>]]>
+            </text>
+        </partiallycorrectfeedback>
+        <incorrectfeedback format="html">
+            <text>
+                <![CDATA[<p>Η απάντησή σας είναι λανθασμένη</p>]]>
+            </text>
+        </incorrectfeedback>
+        <shownumcorrect/>
+        <answer fraction="0" format="html">
+            <text>
+                <![CDATA[<p>85</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
+        <answer fraction="0" format="html">
+            <text>
+                <![CDATA[<p>76</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
+        <answer fraction="100" format="html">
+            <text>
+                <![CDATA[<p>55</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
+        <answer fraction="0" format="html">
+            <text>
+                <![CDATA[<p>45</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
+        <answer fraction="0" format="html">
+            <text>
+                <![CDATA[<p>46</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
+    </question>
+
+</quiz>

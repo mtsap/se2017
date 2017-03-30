@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να ενημερώνεται για την κατάσταση και το πρόγραμμα των αιθουσών, αμφιθεάτρων και συνεδριακών κέντρων.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει αίτηση στο σύστημα για χρήση ειδικών χώρων του πανεπιστημίου.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης αρμόδιο όργανο πρέπει να μπορεί να λαμβάνει, να εγκρίνει ή να απορρίπτει αιτήσεις χρηστών, οι οποίες αφορούν τη χρήση σε ειδικούς χώρους.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το διδακτικό προσωπικό πρέπει να μπορεί να ενημερώνει το σύστημα για τη διαθεσιμότητά του στο γραφείο του.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να δημιουργήσει ένα καινούργιο task.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει “join“ σε ένα “room”.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να στέλνει ειδοποίηση μία ώρα πριν από τη λήξη του deadline ενός task.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να εισάγει στην πλατφόρμα τα απαιτούμενα υλικά για μια συνταγή.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να βαθμολογήσει κάθε συνταγή που επιθυμεί, καθώς και να επεξεργαστεί τη βαθμολογία του.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει upload τη δική του συνταγή, καθώς και να την διαγράψει εάν ο ίδιος το επιθυμεί.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει αναζήτηση συνταγής μέσω λέξεων – κλειδιών.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει report κάποιας συνταγής με άσχετο / υβριστικό / προσβλητικό περιεχόμενο.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να δημιουργήσει και να επεξεργαστεί καταχώρηση ασθενούς.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να απεικονίζει σε χάρτη τη θέση των συνδεδεμένων χρηστών.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να έχει τη δυνατότητα „accept“ σε αιτήματα φιλίας.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να υποστηρίζει δύο γλώσσες, τα ελληνικά και τα αγγλικά.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το γραφικό περιβάλλον της εφαρμογής πρέπει να είναι φιλικό προς το χρήστη.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Η ταυτοποίηση των διαπιστευτηρίων πρέπει να γίνεται από το σύστημα εντός ενός δευτερολέπτου.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να υποστηρίζει κρυπτογράφηση 128-bit για την έκδοση των ηλεκτρονικών κλειδιών.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να είναι σε λειτουργία κατ’ ελάχιστον το 98% του χρόνου.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να χρησιμοποιεί το πολύ 200 ΚΒ μνήμης RAM.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει log-in στο σύστημα και η ταυτοποίηση των διαπιστευτηρίων πρέπει να γίνεται εντός 500ms.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει αίτηση στο σύστημα για χρήση ειδικών χώρων του πανεπιστημίου και η γραφική διεπαφή να υποστηρίζει ελληνικά και γερμανικά.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Ο χρήστης πρέπει να μπορεί να κάνει “join“ σε ένα “room” και η ενέργεια αυτή να διεκπαιρεώνεται το πολύ σε 50 ms.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να διασφαλίζει τα εξωτερικά συστήματα από φυσικές καταστροφές.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Επιλέξτε τον τύπο της ακόλουθης φράσης: Το σύστημα πρέπει να διασφαλίζει τη σωματική ακεραιότητα των χρηστών.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>5</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>TRUE</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Μη Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Προβληματική - Μη Λειτουργική και Λειτουργική Απαίτηση</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100A26	" format="html">
+      <text><![CDATA[<p>Προβληματική - Δεν είναι απαίτηση χρηστών</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
