@@ -38,3 +38,6 @@ jspm_packages
 
 # output folder contents
 output/*
+
+# input csv files
+*.csv
