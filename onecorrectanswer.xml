@@ -73,6 +73,14 @@
                 <text></text>
             </feedback>
         </answer>
+        <answer fraction="0" format="html">
+            <text>
+                <![CDATA[<p>46</p>]]>
+            </text>
+            <feedback format="html">
+                <text></text>
+            </feedback>
+        </answer>
     </question>
 
 </quiz>
