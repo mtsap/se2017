@@ -2,87 +2,18 @@
 <quiz>
   <question type="multichoice">
     <name>
-      <text>Ερώτηση </text>
+      <text>Ερώτηση</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να ενημερώνεται για την κατάσταση και το πρόγραμμα των αιθουσών, αμφιθεάτρων και συνεδριακών κέντρων και να κάνει αίτηση στο σύστημα για χρήση <b>ειδικών χώρων</b> του πανεπιστημίου.</p>]]></text>
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text/>
     </generalfeedback>
-    <defaultgrade>5</defaultgrade>
+    <defaultgrade>20</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης να κάνει αίτηση στο σύστημα για χρήση ειδικών χώρων του πανεπιστημίου.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
@@ -102,36 +33,30 @@
     </incorrectfeedback>
     <shownumcorrect/>
     <answer fraction="50" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
+    <answer fraction="-33.33333" format="html">
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
     <answer fraction="50" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
+    <answer fraction="-33.33333" format="html">
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-25" format="html">
+    <answer fraction="-33.33333" format="html">
       <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
       <feedback format="html">
         <text/>
@@ -140,18 +65,18 @@
   </question>
   <question type="multichoice">
     <name>
-      <text>Ερώτηση </text>
+      <text>Ερώτηση</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης αρμόδιο όργανο πρέπει να μπορεί να <b>διαχειρίζεται</b> αιτήσεις χρηστών για τη χρήση ειδικών χώρων.</p>]]></text>
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text/>
     </generalfeedback>
-    <defaultgrade>5</defaultgrade>
+    <defaultgrade>20</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <single>FALSE</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
@@ -170,32 +95,89 @@
             ]]></text>
     </incorrectfeedback>
     <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Ερώτηση</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>20</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[
+                <p>Η απαντησή σας είναι σωστή</p>
+            ]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντηση είναι μερικώς σωστή.</p>
+            ]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[
+                <p>Η απάντησή σας είναι λανθασμένη</p>
+            ]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
@@ -209,18 +191,18 @@
   </question>
   <question type="multichoice">
     <name>
-      <text>Ερώτηση </text>
+      <text>Ερώτηση</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Το διδακτικό προσωπικό πρέπει να μπορεί να ενημερώνει το σύστημα για τη διαθεσιμότητά του στο γραφείο του, έτσι ώστε οι φοιτητές να μην προσέρχονται ακατάλληλες ώρες.</p>]]></text>
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text/>
     </generalfeedback>
-    <defaultgrade>5</defaultgrade>
+    <defaultgrade>20</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <single>FALSE</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
@@ -239,37 +221,31 @@
             ]]></text>
     </incorrectfeedback>
     <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
+    <answer fraction="-50" format="html">
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-50" format="html">
       <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
       <feedback format="html">
         <text/>
@@ -278,18 +254,18 @@
   </question>
   <question type="multichoice">
     <name>
-      <text>Ερώτηση </text>
+      <text>Ερώτηση</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να μη μπορεί να δημιουργήσει καινούργια εργασία με υπάρχον όνομα, ώστε να μη δημιουργούνται διπλο-εγγραφές</p>]]></text>
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text/>
     </generalfeedback>
-    <defaultgrade>5</defaultgrade>
+    <defaultgrade>20</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <single>FALSE</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
@@ -309,169 +285,25 @@
     </incorrectfeedback>
     <shownumcorrect/>
     <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="50" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="50" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
     <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
     <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
     <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης να μπορεί να κάνει join σε ένα room.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="50" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="50" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Το σύστημα πρέπει να στέλνει ειδοποίηση μία ώρα πριν από τη λήξη μιας ενός εργασίας.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
@@ -485,87 +317,18 @@
   </question>
   <question type="multichoice">
     <name>
-      <text>Ερώτηση </text>
+      <text>Ερώτηση</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να εισάγει στην πλατφόρμα τα απαιτούμενα υλικά για μια συνταγή</p>]]></text>
+      <text><![CDATA[<p>Εντοπίστε πιθανά σφάλματα και αναντιστοιχίες του ακόλουθου διαγράμματος δραστηριοτήτων σε σχέση με το σενάριο χρήσης.</p>]]></text>
     </questiontext>
     <generalfeedback format="html">
       <text/>
     </generalfeedback>
-    <defaultgrade>5</defaultgrade>
+    <defaultgrade>20</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης να μην μπορεί να βαθμολογήσει δική του συνταγή και να μπορεί σχολιάζει αναρτήσεις σε blogs άλλων χρηστών.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
+    <single>false</single>
     <shuffleanswers>true</shuffleanswers>
     <answernumbering>none</answernumbering>
     <correctfeedback format="html">
@@ -585,657 +348,30 @@
     </incorrectfeedback>
     <shownumcorrect/>
     <answer fraction="50" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
+      <text><![CDATA[<p>Η UML δεν είναι ορθή</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text><![CDATA[<p>Δεν υπάρχει ταύτιση σε κάθε ενέργεια χρήστη/συστήματος με το Σενάριο Χρήσης</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text><![CDATA[<p>Δεν έχουν μοντελοποιηθεί όλες οι βασικές/εναλλακτικές ροές</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
     <answer fraction="50" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
+      <text><![CDATA[<p>Οι εναλλακτικές ροές δεν εκκινούν ή/και τερματίζουν όπως περιγράφεται στο Σενάριο Χρήσης</p>]]></text>
       <feedback format="html">
         <text/>
       </feedback>
     </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-25" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να κάνει upload τη δική του συνταγή, καθώς και να την διαγράψει εάν ο ίδιος το επιθυμεί.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να κάνει αναζήτηση συνταγής μέσω keyword.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης να μπορεί να κάνει report κάποιας συνταγής με ακατάλληλο περιεχόμενο.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να δημιουργήσει και να επεξεργαστεί καταχώρηση ασθενούς.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Το σύστημα πρέπει να απεικονίζει σε χάρτη τη θέση των συνδεδεμένων χρηστών.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης να έχει τη δυνατότητα <b>accept</b> σε αιτήματα φιλίας και να μην μπορεί να κάνει αίτημα φιλίας σε κάποιον που του έχει κάνει ήδη μία φορά reject, έτσι ώστε να αποτρέπονται ανεπιθύμητες διαρκείς αιτήσεις.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-100" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να κάνει logout από την εφαρμογή και επίσης να μπορεί να την τερματίσει</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Ο χρήστης πρέπει να μπορεί να αποθηκεύει σε μια λίστα με τίτλο <b>My Favorite List</b> όποιες συνταγές αυτός επιθυμεί, έτσι ώστε να μπορεί να ανατρέχει στη λίστα αυτή και να βλέπει τις συνταγές αυτές σύντομα.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20A17" format="html">
-      <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-  </question>
-  <question type="multichoice">
-    <name>
-      <text>Ερώτηση </text>
-    </name>
-    <questiontext format="html">
-      <text><![CDATA[<p>Εντοπίστε πιθανά προβλήματα στην ακόλουθη Λειτουργική Απαίτηση: Τα υλικά να επισημαίνονται με τη χρήση <b>tags</b>.</p>]]></text>
-    </questiontext>
-    <generalfeedback format="html">
-      <text/>
-    </generalfeedback>
-    <defaultgrade>5</defaultgrade>
-    <penalty>0.3333333</penalty>
-    <hidden>0</hidden>
-    <single>FALSE</single>
-    <shuffleanswers>true</shuffleanswers>
-    <answernumbering>none</answernumbering>
-    <correctfeedback format="html">
-      <text><![CDATA[
-                <p>Η απαντησή σας είναι σωστή</p>
-            ]]></text>
-    </correctfeedback>
-    <partiallycorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντηση είναι μερικώς σωστή.</p>
-            ]]></text>
-    </partiallycorrectfeedback>
-    <incorrectfeedback format="html">
-      <text><![CDATA[
-                <p>Η απάντησή σας είναι λανθασμένη</p>
-            ]]></text>
-    </incorrectfeedback>
-    <shownumcorrect/>
-    <answer fraction="100" format="html">
-      <text><![CDATA[<p>Χωρίς αυστηρή σύνταξη</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Περίπλοκη χρήση της γλώσσας/αρνητική λογική</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p> Σχολιασμός της απαίτησης/επεξήγηση εντός του ορισμού της απαίτησης</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Ορολογία/τεχνικός όρος μη επισημασμένος</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p>Συνδυασμός ασυσχέτιστων απαιτήσεων</p>]]></text>
-      <feedback format="html">
-        <text/>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-33.33333A6" format="html">
       <text><![CDATA[<p>Κανένα πρόβλημα</p>]]></text>
       <feedback format="html">
         <text/>

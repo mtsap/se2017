@@ -94,7 +94,8 @@ function createNewQuestion(question, line) {
   question.answer[3].text[0] = `<p>${line.answer4}</p>`
   question.answer[4].$.fraction = line.fraction5;
   question.answer[4].text[0] = `<p>${line.answer5}</p>`
-  question.answer[5].$.fraction = line.fraction6;
-  question.answer[5].text[0] = `<p>${line.answer6}</p>`
+  // question.answer[5].$.fraction = line.fraction6;
+  // question.answer[5].text[0] = `<p>${line.answer6}</p>`
+  question.answer.splice(5,1)
   return question;
 }
